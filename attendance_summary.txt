@@ -1,0 +1,17 @@
+========================================
+       EMPLOYEE ATTENDANCE SUMMARY
+========================================
+
+Employee ID   : 211
+Employee Name : malu
+Present       : 1
+Absent        : 0
+Attendance    : 100.00%
+----------------------------------------
+Employee ID   : 222
+Employee Name : harshad
+Present       : 0
+Absent        : 1
+Attendance    : 0.00%
+Warning       : Attendance below 75%
+----------------------------------------
